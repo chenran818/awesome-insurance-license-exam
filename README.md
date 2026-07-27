@@ -174,6 +174,7 @@ Memorize key terms with spaced repetition:
 ### State Insurance Departments
 
 - [NAIC State Map](https://content.naic.org/state-insurance-regulator-jurisdictions) - Find your state's insurance department
+- [TSI National 50-State Insurance Licensing & CE Directory](https://tsinational.com/insurance-licensing-and-ce-requirements-by-state/) - Free state-by-state directory of regulator links, licensing and continuing-education requirements, and current education availability
 - [State Pre-Licensing Requirements](https://www.kaplanfinancial.com/insurance/state-requirements) - Hours by state
 
 ### Typical Requirements
