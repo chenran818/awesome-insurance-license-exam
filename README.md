@@ -116,6 +116,7 @@ Resources for the P&C insurance license exam.
 | [ExamFX Free Quiz](https://www.examfx.com/insurance-license/free-practice-exam) | 25 | Both | Yes |
 | [Kaplan Free Quiz](https://www.kaplanfinancial.com/insurance) | 10 | Both | Yes |
 | [Quizlet Insurance](https://quizlet.com/subject/insurance-exam/) | Varies | Both | Community |
+| [LanePrep Free Practice Exams](https://laneprep.com/guide#by-exam) | 50 per exam, 25 state exams | Both | Yes |
 
 ---
 
@@ -158,6 +159,7 @@ Memorize key terms with spaced repetition:
 ### Podcasts
 
 - [Open Exam Prep Podcast](https://podcasts.apple.com/us/podcast/open-exam-prep/id1859485836) - Audio study sessions
+- [LanePrep Insurance Exam Audio Prep](https://open.spotify.com/show/2TDFlp0GH3WhANAuDKu10u) - Free first and last chapter of each of 25 state courses as episodes (also on Amazon Music; [RSS](https://laneprep.com/podcast/feed.xml))
 
 ---
 
